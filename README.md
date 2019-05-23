@@ -1,0 +1,2 @@
+# sicp-start
+sicp notes
